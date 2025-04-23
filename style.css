@@ -4,22 +4,21 @@ table{border-collapse: collapse;}
 .tr1{height: 175px; background-color: rgb(187 187 187);}
 .tr2{height: 150px; background-color: rgb(187 187 187);}
 .tr3{height: 150px; background-color: rgb(187 187 187);}
-.tr4{height: 150px; background-color: rgb(187 187 187);}
-.tr5{height: 150px; background-color: rgb(187 187 187);}
+.tr4{height: 150px; background-color: red;}
+.tr5{height: 150px; background-color: red;}
 .tr6{background-color:rgb(187 187 187);}
-.td1{width: 25%;}
-.td2{width: 28%;}
-.td3{width: 35%;}
-.td4{width: 21%;}
-.td5{width: 5%;}
-.td6{width: 15%;}
-.td7{ width: 14%;}
-.td8{width: 15%;}
-.tdu{height: 150px;}
-.tdi{height: 130px;}
+.td1{width: 25%; background-color: purple;}
+.td2{width: 28%;background-color: yellow;}
+.td3{width: 35%;background-color: orange;}
+.td4{width: 21%;background-color: red;}
+.td5{width: 5%;background-color: purple;}
+.td6{width: 15%;background-color: yellow;}
+.td7{ width: 14%;background-color: orange;}
+.td8{width: 15%;background-color: red;}
+.tdu{height: 150px;background-color: purple;}
+.tdi{height: 130px;background-color: yellow;}
 #imagem{text-align: right;}
 #imagem2{vertical-align: top ; text-align: center;}
 #texto{text-align: center; font-size: x-large;}
 #imagem3{vertical-align: bottom;}
-
-
+.cor{background-color: yellow;}
